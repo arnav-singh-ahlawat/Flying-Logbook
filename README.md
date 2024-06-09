@@ -1,10 +1,18 @@
 # Flying Logbook
 
+![#USER-INTERFACE](https://github.com/arnav-singh-ahlawat/Flying-Logbook/assets/159664776/000c4481-2a59-4530-a05a-01c9cad0d4b7)
+
 ## Overview:
 
 Flying Logbook is a Python Tkinter application developed to streamline the process of recording flight details, inspired by the common practice among Indian Air Force pilots, including my brother, of manually logging flight information in traditional logbooks.
 
 This application modernizes the process by storing flight data in a MySQL database, offering centralized management and easy access to records.
+
+![#DATABASE](https://github.com/arnav-singh-ahlawat/Flying-Logbook/assets/159664776/590decbd-6bcb-4233-96a0-bec14f87c830)
+
+## Video Demo:
+
+https://github.com/arnav-singh-ahlawat/Flying-Logbook/assets/159664776/1f745273-b351-442c-b15e-74c1f01176d4
 
 ## Features:
 
